@@ -1,16 +1,41 @@
-# exam
+<h3 align="center"> 1. HomeScreen </h3>
 
-A new Flutter project.
+###
 
-## Getting Started
+<h1 align="left"></h1>
 
-This project is a starting point for a Flutter application.
+###
+<div align="center">
+<img src = "https://github.com/mrsajidshaikh/exam/assets/149478269/67392aa0-58e5-4589-ace4-9da77aaee8a6" width = 22% height = 35%>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3 align="center"> 2. DetailScreen </h3>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<h3 align="center"> 3. CartScreen </h3>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<div align="center">
+<img src = "https://github.com/mrsajidshaikh/exam/assets/149478269/864395bb-6161-423c-b4c4-44387489d2a7" width = 22% height = 35%>
+
+
+<h3 align="center"> 4. App </h3>
+
+###
+
+<div align="center">
+<video src = "https://github.com/mrsajidshaikh/exam/assets/149478269/18fe1b07-7710-426e-b502-c06642da8d78">
+
+###
